@@ -23,7 +23,3 @@ def aissign_rooms(data)
       return array
     end
 end
-  
-
-
-end
