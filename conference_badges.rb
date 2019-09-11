@@ -12,5 +12,8 @@ def batch_badge_creator(name)
     end
 end
 
-def conference_badges()
+def aissign_rooms(data)
+  
+
+
 end
