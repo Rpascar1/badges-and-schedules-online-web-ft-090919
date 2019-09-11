@@ -11,3 +11,6 @@ def batch_badge_creator(name)
       return array
     end
 end
+
+def conference_badges()
+end
