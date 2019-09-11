@@ -1,5 +1,5 @@
 def badge_maker(name)
-    if name.length > 0
+    if name
       name.each do |name|
       puts "Hello, my name is #{name}."
       end
