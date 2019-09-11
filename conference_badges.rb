@@ -23,3 +23,6 @@ def assign_rooms(data)
     end
     array
 end
+
+def printer(batch_badge_creator,assign_rooms)
+  puts batch_badge_creator,assign_rooms
